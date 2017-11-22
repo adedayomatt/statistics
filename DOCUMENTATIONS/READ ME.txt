@@ -1,0 +1,15 @@
+This C++ program basically assume the data to be supplied are sample. It calculates the variance, Standard Deviation and the Standard error.
+
+
+
+Regards.
+Adedayo Matthews
+  
+----------------------------------------------------
+phone: +2348139004572
+facebook: www.facebook.com/kayode.adedayo1
+email: adedayomatt@gmail.com
+Instagram: @adedayomatt
+Twitter: @adedayomatt
+------------------------------------------------------
+ 
